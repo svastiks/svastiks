@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Svastik Sharma, I am a third year software engineering student. Currenty, I am working as a Full Stack Developer Intern @4Pay in Toronto. I am passioante about full stack developemnt and hope to share my projects, work or any other interesting atrifcats on this github profile. Please feel free to connect with me on LinkedIn below!!
+My name is Svastik Sharma, I am a third year software engineering student. Currenty, I am working as a Full Stack Developer Intern @4Pay in Toronto. I am passioante about full stack developemnt and hope to share my projects, work or any other interesting atrifcats on this github profile. Please feel free to connect with me on <a href="https://www.linkedin.com/in/svastiksharma/">LinkedIn!!</a>
  
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" style="width:40px;" /> <a href= "www.linkedin.com/in/svastiksharma" target="_blank">Click to connect</a> -->
 
