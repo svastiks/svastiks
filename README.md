@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Svastik Sharma, I am a third year software engineering student. Currenty, I am working as a Full Stack Developer Intern @4Pay in Toronto. I am passioante about full stack developemnt and hope to share my projects, work or any other interesting atrifcats on this github profile. Please feel free to connect with me on <a href="https://www.linkedin.com/in/svastiksharma/">LinkedIn!!</a>
+My name is Svastik Sharma, I am a third-year software engineering student. Currently, I am working as a Full Stack Developer Intern @4Pay in Toronto. I am passionate about full-stack development and hope to share my projects, work or any other interesting artifacts on this GitHub profile. Please feel free to connect with me on <a href="https://www.linkedin.com/in/svastiksharma/">LinkedIn!!</a>
  
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" style="width:40px;" /> <a href= "www.linkedin.com/in/svastiksharma" target="_blank">Click to connect</a> -->
 
@@ -22,8 +22,10 @@ My name is Svastik Sharma, I am a third year software engineering student. Curre
 #
 
 ## ![icons8-projects-30](https://user-images.githubusercontent.com/84158891/226190637-116158a0-931d-44fd-8eba-c3a789871509.png) Projects
-- Multiple Investment Tracker, helps you track crypto, stocks, NFTs all in one place [IN PROGRESS]<br />
+- Multiple Investment Tracker, helps you track crypto, stocks, and NFTs all in one place [IN PROGRESS]<br />
 - <a href="https://hitflixx.netlify.app/index.html"> Hitflixx <a/>, helps you search any movie or TV shows
+- <a href="https://artkase.netlify.app/">Art Portfolio</a>, the latter displays my sister's artwork and portrays her passion for art.
+- <a href="https://github.com/svastiks/automated-plant-watering-system">Automated plant watering system</a>, utilizes java and Arduino together to produce a system that waters a plant after set intervals or with a click of a button
 
 
 
