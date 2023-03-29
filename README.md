@@ -19,7 +19,7 @@ My name is Svastik Sharma, I am a third-year software engineering student. Curre
 <br />
 <br />
 
-#
+##
 
 ## ![icons8-projects-30](https://user-images.githubusercontent.com/84158891/226190637-116158a0-931d-44fd-8eba-c3a789871509.png) Projects
 - Multiple Investment Tracker, helps you track crypto, stocks, and NFTs all in one place [IN PROGRESS]<br />
