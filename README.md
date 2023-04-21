@@ -23,6 +23,7 @@ My name is Svastik Sharma, I am a third-year software engineering student. Curre
 
 ## ![icons8-projects-30](https://user-images.githubusercontent.com/84158891/226190637-116158a0-931d-44fd-8eba-c3a789871509.png) Projects
 - Multiple Investment Tracker, helps you track crypto, stocks, and NFTs all in one place [IN PROGRESS]<br />
+- Personal Portfolio [IN PROGRESS] <br />
 - <a href="https://hitflixx.netlify.app/index.html"> Hitflixx <a/>, helps you search any movie or TV shows
 - <a href="https://artkase.netlify.app/">Art Portfolio</a>, the latter displays my sister's artwork and portrays her passion for art.
 - <a href="https://github.com/svastiks/automated-plant-watering-system">Automated plant watering system</a>, utilizes java and Arduino together to produce a system that waters a plant after set intervals or with a click of a button
