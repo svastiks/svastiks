@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Svastik Sharma, I am a third-year software engineering student. I am passionate about full-stack development and hope to share my projects, work or any other interesting artifacts on this GitHub profile. Please feel free to connect with me on <a href="https://www.linkedin.com/in/svastiksharma/">LinkedIn!!</a>
+My name is Svastik Sharma, I am a fourth-year software engineering student. I hope to share my projects, work or any other interesting artifacts on this GitHub profile. Please feel free to connect with me on <a href="https://www.linkedin.com/in/svastiksharma/">LinkedIn!!</a>
  
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" style="width:40px;" /> <a href= "www.linkedin.com/in/svastiksharma" target="_blank">Click to connect</a> -->
 
