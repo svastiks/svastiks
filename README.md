@@ -23,7 +23,7 @@ My name is Svastik Sharma, I am a fourth-year software engineering student. I ho
 ##
 
 ## ![icons8-projects-30](https://user-images.githubusercontent.com/84158891/226190637-116158a0-931d-44fd-8eba-c3a789871509.png) Projects
-- Travel Planner App - In Progress
+- <a href="https://quicktravelplan.netlify.app/"> Travel Planner App </a>, I travelled across Europe for an exchange program but lacked a proper travel planner so I decided to create one for my future trips. 
 - <a href="https://investmentracker.netlify.app/"> Investment Tracker </a>, helps user tracke the coins they have invested into. Currently working towards adding stocks as an option as well.<br />
 - <a href="https://hitflixx.netlify.app/index.html"> Hitflixx <a/>, helps you search any movie or TV shows
 - <a href="https://artkase.netlify.app/">Art Portfolio</a>, the latter displays my sister's artwork and portrays her passion for art.
