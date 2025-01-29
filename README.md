@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-My name is Svastik Sharma, I am a software engineering student @ york university. I hope to share my projects, work or any other interesting artifacts on this GitHub profile. Currently working as a Software Engineer Intern @ <a href="https://www.thescore.com/">theScore</a>
+My name is Svastik Sharma, I am a software engineering student @ york university. I hope to share my projects, work or any other interesting artifacts on this GitHub profile. Currently working as a Software Engineer Intern @ <a href="https://www.thescore.com/">theScore</a>. Incoming on the account team @theScore for Summer 2025.
  
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" style="width:40px;" /> <a href= "www.linkedin.com/in/svastiksharma" target="_blank">Click to connect</a> -->
 
