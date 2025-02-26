@@ -1,15 +1,16 @@
 ## 👋 Hi there 
 
-My name is Svastik Sharma, I am a software engineering student @ york university. I hope to share my projects, work or any other interesting artifacts on this GitHub profile. Previosuly a Software Engineer Intern @ <a href="https://www.thescore.com/">theScore</a> and <a href="https://www.4pay.ca/">4Pay</a>.
+My name is Svastik Sharma, I am a software engineering student @ york university. I hope to share my projects, work or any other interesting artifacts on this GitHub profile. Previosuly: Software Engineer Intern and Site Reliability Intern @ <a href="https://www.thescore.com/">theScore</a> | Software Engineer Intern @ <a href="https://www.4pay.ca/">4Pay</a>.
  
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" style="width:40px;" /> <a href= "www.linkedin.com/in/svastiksharma" target="_blank">Click to connect</a> -->
 
 ## 🌱 Experience
 
-Currently working with:
+Previously worked with:
 - Elixir, Datadog, MySQL, PostgreSQL, GCP, Software Architecture
 
-Previously worked with:
+and
+
 - Python (Flask), JavaScript, Github Actions (Building pipelines), Helm, Kubernetes, Bash, PostgreSQL, PHP, Bootstrap CSS
 
 ## 🔭 Projects
