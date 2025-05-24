@@ -7,11 +7,11 @@ My name is Svastik Sharma, I am a software engineering student @ york university
 ## 🌱 Experience
 
 Previously worked with:
-- Elixir, Datadog, MySQL, PostgreSQL, GCP, Software Architecture
+- Elixir, React, Datadog, PostgreSQL, K8s, Docker, GCP, Software Architecture
 
 and
 
-- Python (Flask), JavaScript, Github Actions (Building pipelines), Helm, Kubernetes, Bash, PostgreSQL, PHP, Bootstrap CSS
+- Python (Flask), JavaScript, MySQL, Github Actions (Building pipelines), Helm, Kubernetes, Bash, PostgreSQL, PHP, Bootstrap CSS
 
 ## 🔭 Projects
 Check out my pinned repos !!
